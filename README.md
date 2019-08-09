@@ -1,6 +1,5 @@
-# [HTML Reference](https://htmlreference.io): a free visual guide to HTML elements and attributes
+a powerfull visual guide to HTML elements and attributes
 
-[![HTML Reference screenshot](https://raw.github.com/jgthms/html-reference/master/images/html-reference-logo.png)](https://htmlreference.io)
 
 # License
 
